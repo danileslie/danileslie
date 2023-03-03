@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dani!</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h1 align="center">Hi 👋, I'm Dani! Welcome to my Github.</h1>
+<h3 align="center">I'm an Ontario-based software developer programming full-stack Javascript applications.</h3>
 
-<p align="left"> <a href="https://twitter.com/dani_in_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dani_in_dev?logo=twitter&style=for-the-badge" alt="dani_in_dev" /></a> </p>
+- ⚡ Fun fact(?) **I love spending my free time playing RPGs and reading fantasy novels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
