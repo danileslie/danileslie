@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dani! Welcome to my Github.</h1>
-<h3 align="center">I'm an Ontario-based software developer programming full-stack Javascript applications.</h3>
+<h3 align="center">I'm an Ontario-based software developer programming full-stack applications.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
